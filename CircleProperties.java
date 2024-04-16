@@ -1,7 +1,4 @@
 import java.util.Scanner;
-import java.lang.Math;
-
-// E4.6
 
 public class CircleProperties {
     

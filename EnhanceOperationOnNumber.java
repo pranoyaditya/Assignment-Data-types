@@ -1,8 +1,6 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-// E4.4
-
 public class EnhanceOperationOnNumber {
 
     public static void main(String args[])
